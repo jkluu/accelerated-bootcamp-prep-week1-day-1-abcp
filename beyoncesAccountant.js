@@ -2,16 +2,12 @@ console.log("Dear Beyonce,")
 console.log("We have calculated your total earnings this year.")
 console.log("You have earned " + beyoncesMoney)
 
-var beyoncesMoney = livePerformances + musicSales
-
 console.log("Of" + 500 + 750 + 3000 + 5100 + 12980 + 9087 + 50000 + " some portion derives from your live performances.")
 
 console.log("Of" + 500 + 750 + 3000 + 5100 + 12980 + 9087 + 50000 + " some portion derives from music sales.")
 
-var livePerformances = 500 + 750 + 3000 + 5100 + 12980 + 9087 + 50000
-var musicSales = 500 + 750 + 3000 + 5100 + 12980 + 9087 + 50000
-
 var totalSum = beyoncesMoney
+
 console.log(totalSum)
 
 // DON'T DO THIS PART YET:
