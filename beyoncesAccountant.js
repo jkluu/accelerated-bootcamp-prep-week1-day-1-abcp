@@ -5,8 +5,8 @@ console.log("Of" + 500 + 750 + 3000 + 5100 + 12980 + 9087 + 50000 + " some porti
 console.log("Of" + 500 + 750 + 3000 + 5100 + 12980 + 9087 + 50000 + " some portion derives from music sales.")
 
 var totalSum = beyoncesMoney
-var totalSum = (500 + 750 + 3000 + 5100 + 12980 + 9087 + 50000 + 500 + 750 + 3000 + 5100 + 12980 + 9087 + 50000)
-console.log(totalSum)
+console.log(totalSum)var totalSum = (500 + 750 + 3000 + 5100 + 12980 + 9087 + 50000 + 500 + 750 + 3000 + 5100 + 12980 + 9087 + 50000)
+
 
 // DON'T DO THIS PART YET:
 // Now that we understand what a variable is
