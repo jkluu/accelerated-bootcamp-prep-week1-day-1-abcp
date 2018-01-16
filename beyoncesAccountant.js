@@ -4,7 +4,7 @@ console.log("You have earned " + totalSum)
 console.log("Of" + 500 + 750 + 3000 + 5100 + 12980 + 9087 + 50000 + " some portion derives from your live performances.")
 console.log("Of" + 500 + 750 + 3000 + 5100 + 12980 + 9087 + 50000 + " some portion derives from music sales.")
 
-console.log(totalSum) = (500 + 750 + 3000 + 5100 + 12980 + 9087 + 50000 + 500 + 750 + 3000 + 5100 + 12980 + 9087 + 50000)
+var totalSum = (500 + 750 + 3000 + 5100 + 12980 + 9087 + 50000 + 500 + 750 + 3000 + 5100 + 12980 + 9087 + 50000)
 
 
 // DON'T DO THIS PART YET:
